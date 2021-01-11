@@ -1,0 +1,1 @@
+This is a very basic twitbot. The purpose of it, I don't know yet. hehe
